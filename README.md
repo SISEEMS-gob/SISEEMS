@@ -19,7 +19,7 @@
 <body>
 <div class="container">
 	<div class="row">
-				<div class="col-md-12  text-center"><img ![image](https://github.com/user-attachments/assets/13951b2e-7d4d-404e-b90c-1b9fe1a0796c)
+				<div class="col-md-12  text-center"><img !
 src="./Validación QR_files/logo611_2022.png" class="img-fluid" alt=""></div>
 	</div><br>
 
