@@ -19,7 +19,7 @@
 <body>
 <div class="container">
 	<div class="row">
-				<div class="col-md-12  text-center"><img src="./Validación QR_files/logo611_2022.png" class="img-fluid" alt="Italian Trulli"></div>
+				<div class="col-md-12  text-center"><img src="./Validación QR_files/logo611_2022.png" class="img-fluid" alt=""></div>
 	</div><br>
 
 	<div class="alert alert-primary">
