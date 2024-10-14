@@ -1,5 +1,5 @@
-<!DOCTYPE html>
-<!-- saved from url=(0070)http://siseems.sems.gob.mx/perfil/perfil_egresod.php?id_alumno=5716385 -->
+
+
 <html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <title>Validación QR</title>
 	
