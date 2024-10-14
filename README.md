@@ -13,14 +13,7 @@
    <!-- Popper JS -->
    <script src="./Validación QR_files/popper.min.js.descarga"></script>
    
-   <!-- Latest compiled JavaScript -->
-   <script src="./Validación QR_files/bootstrap.bundle.min.js.descarga"></script>
-</head>
-<body>
-<div class="container">
-	<div class="row">
-				<div class="col-md-12  text-center">> hola </div>
-	</div><br>
+  
 
 	<div class="alert alert-primary">
 		<strong>Datos del estudiante</strong>
